@@ -42,74 +42,31 @@ export default function Hobbies() {
 
 const itemData = [
   {
-    img: 'https://images.unsplash.com/photo-1551963831-b3b1ca40c98e',
-    title: 'Breakfast',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1o9QLyuB2LJFsuMs2Vu-mpFFj6NLzZIy5_hhSoJY_w&usqp=CAU&ec=48665701',
+    title: 'Listening Music',
     
     rows: 2,
     cols: 2,
     featured: true,
   },
   {
-    img: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d',
-    title: 'Burger',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzML89CODk6aI3DRUrMH68ro3bg6uiAp8iesPR_xJhA&usqp=CAU&ec=48665701',
+    title: 'Reading Books',
     
   },
   {
-    img: 'https://images.unsplash.com/photo-1522770179533-24471fcdba45',
-    title: 'Camera',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18ZAC4wA9c3o2bnrvuGcTmNI0tQSNk9fcPNWRsdbhGJQ5YMRzrYV9Rg-qfadL9T2ZjHgF0sG43_4&usqp=CAU&ec=48665701',
+    title: 'Crafting',
     
   },
   {
-    img: 'https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c',
-    title: 'Coffee',
-    
-    cols: 2,
-  },
-  {
-    img: 'https://images.unsplash.com/photo-1533827432537-70133748f5c8',
-    title: 'Hats',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIR7rNwTllwMCvBOmP2ApfToR7QMu-sHQfCuO1P-qAEg&usqp=CAU&ec=48665701',
+    title: 'Chess',
     
     cols: 2,
   },
-  {
-    img: 'https://images.unsplash.com/photo-1558642452-9d2a7deb7f62',
-    title: 'Honey',
-    
-    rows: 2,
-    cols: 2,
-    featured: true,
-  },
-  {
-    img: 'https://images.unsplash.com/photo-1516802273409-68526ee1bdd6',
-    title: 'Basketball',
-    
-  },
-  {
-    img: 'https://images.unsplash.com/photo-1518756131217-31eb79b20e8f',
-    title: 'Fern',
-    
-  },
-  {
-    img: 'https://images.unsplash.com/photo-1597645587822-e99fa5d45d25',
-    title: 'Mushrooms',
-    
-    rows: 2,
-    cols: 2,
-  },
-  {
-    img: 'https://images.unsplash.com/photo-1567306301408-9b74779a11af',
-    title: 'Tomato basil',
-    
-  },
-  {
-    img: 'https://images.unsplash.com/photo-1471357674240-e1a485acb3e1',
-    title: 'Sea star',
-    
-  },
-  {
-    img: 'https://images.unsplash.com/photo-1589118949245-7d38baf380d6',
-    title: 'Bike',
   
-    cols: 2,
-  },
+  
+   
+  
 ];
